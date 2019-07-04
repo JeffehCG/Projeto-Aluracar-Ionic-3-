@@ -1,0 +1,16 @@
+baixando ionic 
+npm i -g ionic
+npm i -g cordova ionic
+npm i -g cordova
+
+Criando projeto
+ionic start myApp tabs (pode ser tabs/ blank ou sidemenu - que são templates)
+
+Rodar ionic
+ionic serve
+
+Criando pagina (Apos criala é preciso declarala em app.module.ts)
+ionic generate page nomeDaPagina
+
+Criando provider (service)
+ionic g provider nodeDoServico.service
